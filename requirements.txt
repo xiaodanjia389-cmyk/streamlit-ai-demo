@@ -1,5 +1,5 @@
 streamlit>=1.30.0
-langchain==0.1.15  # 固定版本，和本地环境一致
+langchain==0.1.16  # 固定版本，和本地环境一致
 langchain-community>=0.0.20
 langchain-openai>=0.1.0  # 适配ChatOpenAI导入
 chromadb>=0.4.24
